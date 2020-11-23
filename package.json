@@ -1,0 +1,51 @@
+{
+  "name": "postcss-import-svg",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to reference an SVG file and inline it, optionally update currentColor references",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "svg",
+    "inline",
+    "currentcolor"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "author": "Cody Olsen",
+  "license": "MIT",
+  "repository": "stipsan/postcss-import-svg",
+  "bugs": {
+    "url": "https://github.com/stipsan/postcss-import-svg/issues"
+  },
+  "homepage": "https://github.com/stipsan/postcss-import-svg",
+  "dependencies": {
+    "css-select": "^2.0.2",
+    "dom-serializer": "^0.1.1",
+    "htmlparser2": "^3.10.1",
+    "postcss": "^7.0.17",
+    "postcss-value-parser": "^4.0.0"
+  },
+  "devDependencies": {
+    "husky": "^2.4.1",
+    "jest": "^24.8.0",
+    "lint-staged": "^8.2.1",
+    "prettier": "^1.18.2"
+  }
+}
