@@ -1,0 +1,6 @@
+{
+    "extends": ["github>finn-no/renovate-presets:js", ":widenPeerDependencies"],
+    "lockFileMaintenance": {
+        "automerge": true
+    }
+}
