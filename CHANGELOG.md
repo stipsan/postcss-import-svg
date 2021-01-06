@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/stipsan/postcss-import-svg/compare/v1.0.1...v1.0.2) (2021-01-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency css-select to v3.1.2 ([c028887](https://github.com/stipsan/postcss-import-svg/commit/c0288876a898abf4bad1284256b5e7817bfe2c37))
+
 ## [1.0.1](https://github.com/stipsan/postcss-import-svg/compare/v1.0.0...v1.0.1) (2020-11-27)
 
 
