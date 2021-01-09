@@ -1,6 +1,6 @@
 {
   "name": "postcss-import-svg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PostCSS plugin to reference an SVG file and inline it, optionally update currentColor references",
   "keywords": [
     "postcss",

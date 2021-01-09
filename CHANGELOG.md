@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/stipsan/postcss-import-svg/compare/v1.0.2...v1.0.3) (2021-01-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dom-serializer to v1.2.0 ([993649f](https://github.com/stipsan/postcss-import-svg/commit/993649f80852446cc6684213e40172ca6176e179))
+
 ## [1.0.2](https://github.com/stipsan/postcss-import-svg/compare/v1.0.1...v1.0.2) (2021-01-06)
 
 
