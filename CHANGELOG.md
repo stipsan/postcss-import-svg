@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/stipsan/postcss-import-svg/compare/v1.0.4...v1.0.5) (2021-03-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency htmlparser2 to v6.0.1 ([5c54f4c](https://github.com/stipsan/postcss-import-svg/commit/5c54f4c6b62af1db6eaac0e776a4fc23b1cc508a))
+
 ## [1.0.4](https://github.com/stipsan/postcss-import-svg/compare/v1.0.3...v1.0.4) (2021-01-22)
 
 
