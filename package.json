@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/stipsan/postcss-import-svg",
   "dependencies": {
-    "css-select": "^3.1.0",
+    "css-select": "^4.0.0",
     "dom-serializer": "^1.1.0",
     "htmlparser2": "^6.0.0",
     "postcss-value-parser": "^4.0.0"
